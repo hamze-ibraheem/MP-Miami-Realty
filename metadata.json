@@ -1,0 +1,6 @@
+{
+  "name": "MP Miami Realty",
+  "description": "High-converting real estate website for MP Miami Realty LLC, offering the best deals in the Miami market.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
