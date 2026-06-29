@@ -7,6 +7,7 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 import SchemaMarkup from './components/SchemaMarkup';
 import DealsMap from './components/DealsMap';
+import FloatingPromoButton from './components/FloatingPromoButton';
 import { LanguageProvider } from './i18n';
 
 export default function App() {
@@ -15,6 +16,7 @@ export default function App() {
     <div className="min-h-screen font-sans text-slate-100 bg-[#0D0F12] selection:bg-sky-500/30 selection:text-sky-200">
       <SchemaMarkup />
       <Navbar />
+      <FloatingPromoButton />
       <main>
         <Hero />
         <About />
